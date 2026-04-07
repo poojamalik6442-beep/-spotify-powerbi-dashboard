@@ -36,13 +36,8 @@ The dashboard focuses on identifying:
 
 ---
 
-## 📂 Dataset
-- Spotify dataset (public dataset)
-
----
-
 ## 📸 Dashboard Preview
-(Add your dashboard screenshot here)
+![Dashoard](Dashboard.png)
 
 ---
 
